@@ -1,0 +1,1 @@
+ntdi_kpts_lumia_fm\startup_stm32f446xx.o: startup_stm32f446xx.s
