@@ -1,1 +1,0 @@
-# my_stm_project
